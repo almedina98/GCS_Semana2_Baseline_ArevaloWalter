@@ -21,6 +21,9 @@ El sistema deberá permitir localizar un producto mediante su código único.
 ### REQ-004 – Actualizar cantidad
 El sistema deberá permitir modificar la cantidad disponible de un producto registrado.
 
+### REQ-007 - Alerta de stock mínimo
+El sistema deberá generar una alerta cuando la cantidad disponible de un producto sea igual o inferior al nivel mínimo establecido.
+
 ## 3. Requisitos no funcionales
 
 ### RNF-001 – Facilidad de uso
